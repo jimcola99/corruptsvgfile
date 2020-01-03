@@ -1,5 +1,5 @@
 # corruptsvgfile
-Corrupt SVG File With XSS
+Corrupt SVG File With XSS.  
 Simply an image with stored XSS example that produces an alert box with the current domain
 ======================================================
 If this file is uploaded to a server and displays the alert box with the current domain after rendering, You have
